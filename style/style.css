@@ -22,9 +22,10 @@ input[type=text],input[type=email],input[type=password],input[type=number],input
     padding-left: 15px;
 }
 button{
-    background-color: #b563ea;
+    background-color: #0aff0a;
     color: lemonchiffon;
     width: 120px;
     height: 40px;
     border-radius: 10px;
+    align-content: center;
 }
