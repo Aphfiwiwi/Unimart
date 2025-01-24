@@ -1,7 +1,31 @@
 legend{
-    font-size: x-large;
+    font-size: 40px;
     text-align: center;
+    font-weight: bolder;
+}
+
+input[type=text],input[type=email]{
+    width: 100%;
+    height: 40px;
+    background-color: #d3d3d3;
+    border-collapse: collapse;
+
+}
+textarea{
+    height: 80px;
+    width: 100%;
+    background-color: #d3d3d3;
 }
 #form{
-    background-color: #a15fc6;
+    padding: 40px;
+    background-color: white;
+    text-align: center;
+}
+button{
+    color: white;
+    border-radius: 50px;
+    width: 30%;
+    height: 40px;
+    background-color: #25b3ff;
+
 }
